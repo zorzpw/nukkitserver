@@ -25,7 +25,7 @@ clear
 
 echo "开始整理安装环境..."
 
-yum -y wget unzip csreen java-1.8.0-openjdk java-1.8.0-openjdk-devel
+yum -y install unzip csreen java-1.8.0-openjdk java-1.8.0-openjdk-devel
 #安装所需软件
 
 
